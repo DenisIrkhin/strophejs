@@ -65,7 +65,7 @@
     "minimist": "^1.2.5",
     "npm": "^9.6.1",
     "qunitjs": "~1.16.0",
-    "requirejs": "2.3.5",
+    "requirejs": "2.3.6",
     "rollup": "^2.32.1",
     "rollup-plugin-node-globals": "^1.4.0",
     "rollup-plugin-uglify": "^6.0.4",
